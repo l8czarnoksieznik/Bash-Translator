@@ -5,7 +5,7 @@ An attempt to create simple translator from Bash into C written in Bash. Given i
 Script handles:
 -distinguishing instructions for mathematical comparison 
 -distinguishing instructions for logical operations
--variable declarations
+-variable declarations 
 -checking if variable is a number or a string
 -creating main function body and includes common library
 -passing arguments to create mathematical expresions 
